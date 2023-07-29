@@ -2,7 +2,7 @@ export type Product = {
     name: string;
     slug: string;
     image: string;
-    catagory: string;
+    category: string;
     cook: string;
     price: number;
     countInStock: number;

@@ -1,6 +1,7 @@
 /node_modules
 /build
 
-#System Files
+
+# System Files
 .DS_Store
 Thumbs.db

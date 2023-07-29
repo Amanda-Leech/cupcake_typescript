@@ -1,12 +1,12 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
 exports.sampleProducts = void 0;
 exports.sampleProducts = [
     {
         name: 'Chocolate Cake Pop',
         slug: 'chocolate-cake-pop',
         image: '../images/p1.jpg',
-        catagory: 'Cakepop',
+        category: 'Cakepop',
         cook: 'Bobby',
         price: 2,
         countInStock: 24,
@@ -18,7 +18,7 @@ exports.sampleProducts = [
         name: 'Strawberry Cake Pop',
         slug: 'strawberry-cake-pop',
         image: '../images/p2.jpg',
-        catagory: 'Cakepop',
+        category: 'Cakepop',
         cook: 'Bobby',
         price: 2,
         countInStock: 24,
@@ -30,7 +30,7 @@ exports.sampleProducts = [
         name: 'Vanilla Cake Pop',
         slug: 'vanilla-cake-pop',
         image: '../images/p3.jpg',
-        catagory: 'Cakepop',
+        category: 'Cakepop',
         cook: 'Bobby',
         price: 2,
         countInStock: 24,
