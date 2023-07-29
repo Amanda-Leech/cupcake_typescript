@@ -3,11 +3,11 @@ import { Outlet } from 'react-router-dom';
 
 function App() {
     return (
-        <div className="d-flex flex-column vh-full">
+        <div className="d-flex flex-column vh-100">
             <header>
                 <Navbar bg="dark" variant="dark" expand="lg">
                     <Container>
-                        <Navbar.Brand>Cakepops</Navbar.Brand>
+                        <Navbar.Brand>Bobby da Baker</Navbar.Brand>
                     </Container>
                     <Nav>
                         <a href="/cart" className="nav-link">
@@ -25,10 +25,9 @@ function App() {
                 </Container>
             </main>
             <footer>
-                <div className="text-center">all rights reserved</div>
+                <div className="text-center">All rights reserved</div>
             </footer>
         </div>
     );
 }
-
 export default App;
